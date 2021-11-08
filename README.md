@@ -2,5 +2,5 @@
 
 - 🌈 Welcome to 🇨🇳 Chinese. 😎
 - 🐳 Programmer | software developer. 😅
-- 🤔 Go, Java, FLutter, Vue, Python. 😁
+- 🤔 Go, Java, FLutter, Python, JavaScript, Vue. 😁
 - 👔 Keep learning
